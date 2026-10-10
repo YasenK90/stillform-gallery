@@ -2,6 +2,8 @@
 
 A responsive portfolio project for a fictional independent contemporary art gallery in London.
 
+**Live demo:** https://yasenk90.github.io/stillform-gallery/
+
 ## Run locally
 
 ```bash
